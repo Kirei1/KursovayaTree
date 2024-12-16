@@ -1,0 +1,22 @@
+ID,Name,Surname,BirthDate,DeathDate,ParentID
+1,Aegon I,Targaryen,-27,-1,
+2,Rhaenys,Targaryen,-25,-10,
+3,Visenya,Targaryen,-30,-6,
+4,Aenys I,Targaryen,-7,37,1.0
+5,Maegor I,Targaryen,-11,48,3.0
+8,Jaehaerys I,Targaryen,34,103,4.0
+9,Aemon,Targaryen,59,92,8.0
+10,Baelon,Targaryen,61,101,8.0
+11,Viserys I,Targaryen,77,129,10.0
+12,Daemon,Targaryen,81,130,10.0
+13,Rhaenyra,Targaryen,97,130,11.0
+14,Aegon II,Targaryen,107,131,11.0
+15,Baela,Targaryen,109,,12.0
+16,Rhaena,Targaryen,110,,12.0
+17,Aegon III,Targaryen,120,157,13.0
+18,Viserys II,Targaryen,122,171,13.0
+19,Daemon,Blackfyre,170,196,18.0
+20,Aerys II,Targaryen,243,283,18.0
+21,Rhaegar,Targaryen,259,283,20.0
+22,Daenerys,Targaryen,284,,20.0
+23,Jon,Snow,283,,21.0

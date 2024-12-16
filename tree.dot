@@ -1,0 +1,19 @@
+digraph FamilyTree {
+"Aegon I Targaryen" -> "Aenys I Targaryen";
+"Aenys I Targaryen" -> "Jaehaerys I Targaryen";
+"Jaehaerys I Targaryen" -> "Aemon Targaryen";
+"Jaehaerys I Targaryen" -> "Baelon Targaryen";
+"Baelon Targaryen" -> "Viserys I Targaryen";
+"Viserys I Targaryen" -> "Rhaenyra Targaryen";
+"Rhaenyra Targaryen" -> "Aegon III Targaryen";
+"Rhaenyra Targaryen" -> "Viserys II Targaryen";
+"Viserys II Targaryen" -> "Daemon Blackfyre";
+"Viserys II Targaryen" -> "Aerys II Targaryen";
+"Aerys II Targaryen" -> "Rhaegar Targaryen";
+"Aerys II Targaryen" -> "Daenerys Targaryen";
+"Aerys II Targaryen" -> "Jon Snow";
+"Viserys I Targaryen" -> "Aegon II Targaryen";
+"Viserys I Targaryen" -> "Baela Targaryen";
+"Viserys I Targaryen" -> "Rhaena Targaryen";
+"Baelon Targaryen" -> "Daemon Targaryen";
+}
